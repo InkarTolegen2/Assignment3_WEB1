@@ -16,16 +16,27 @@ The goal of this assignment was to learn how to create responsive web pages usin
 ## 📂 Project Structure
 
 Assignment8_WEB1/
+
 |___index.html #Task4 - Portfolio Page
+
 |___task0.html #Task0 - Responsive Typography
+
 |___task1.html #Task1 - Responsive Layout
+
 |___task2.html #Task2 - Bootstrap Responsive Columns
+
 |___task3.html #Task3 - Bootstrap Navigation Bar
+
 |___css/
+
 | |_____bootstrap.min.css
+
 | |_____style.css #Custom styles + media queries
+
 |___js/
+
 | |_____bootstrap.bundle.min.js
+
 |___images/ #Screenshots and project images
 
 ---
