@@ -149,10 +149,10 @@ During this assignment, I learned how to:
 
 ## 🔗 Links
 
-- GitHub Repository:
+- GitHub Repository:https://github.com/InkarTolegen2/Assignment3_WEB1.git
 - Bootstrap Docs: https://getbootstrap.com/docs/5.3/
-- MDN Media Queries: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries
-
----
-
-© 2025 [Твоё Имя Фамилия]. All rights reserved.
+- Task 0: [https://inkartolegen2.github.io/Assignment3_WEB1/task0](https://inkartolegen2.github.io/Assignment3_WEB1/task0)
+- Task 1: https://inkartolegen2.github.io/Assignment3_WEB1/task1
+- Task 2: https://inkartolegen2.github.io/Assignment3_WEB1/task2
+- Task 3: https://inkartolegen2.github.io/Assignment3_WEB1/task3
+- Task 4: https://inkartolegen2.github.io/Assignment3_WEB1/
